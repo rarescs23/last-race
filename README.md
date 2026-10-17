@@ -1,5 +1,7 @@
-# Exam #1: "Last Race"
-## Student: s362761  Cusma Rares
+# Last Race
+### Author: Cusma Rares
+
+Originally developed as an exam project for the *Web Applications I* course at Politecnico di Torino.
 
 A single-player metro route planning game. Authenticated users plan a route between two randomly assigned stations on a fictional metro network, then ride through it step by step with random events affecting their coin balance.
 
